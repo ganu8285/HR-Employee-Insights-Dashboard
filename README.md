@@ -1,41 +1,70 @@
-HR Employee Dashboard – Power BI Visualization Project
-📌 Project Overview
-This project analyzes HR employee data using Power BI to create interactive visualizations. It helps explore key metrics, employee demographics, engagement trends, and geographic insights. The goal is to improve data storytelling, Power BI skills, and effective data presentation.
+# HR Employee Dashboard – Power BI Visualization Project
 
-📊 Key Features
-🔹 Three Main Metrics:
+---
 
-Verified Users – Total number of verified employees.
-Followers of Verified Users – Total followers of verified employees.
-Total Tweets – Number of tweets related to HR employees.
+## Project Overview
 
-🔹 Data Filters (Slicers):
+This project analyzes HR employee data using Power BI to create interactive visualizations. It explores key metrics, employee demographics, engagement trends, and geographic insights. The goal is to improve data storytelling, strengthen Power BI skills, and enable effective data presentation across HR functions.
 
-Account Creation Year – Filter data by when employee accounts were created.
-Verified Status – View verified or non-verified employees separately.
+---
 
-📈 Key Insights
+## Key Features
 
-Verified Users are more engaged and active.
-Geographic Trends show higher engagement in specific regions.
-Retweet Analysis reveals popular locations and keywords.
-Employee Demographics highlight the relationship between followers and locations.
+### Core Metrics
 
-🛠 Tools & Techniques Used
-Power BI – Creating interactive dashboards.
-Data Storytelling – Presenting insights in a meaningful way.
-Data Cleaning & Preparation – Ensuring accuracy in visualizations.
+| Metric                          | Description                                          |
+|---------------------------------|------------------------------------------------------|
+| Verified Users                  | Total number of verified employees                   |
+| Followers of Verified Users     | Total follower count associated with verified employees |
+| Total Tweets                    | Number of tweets related to HR employees             |
 
-🖥 How to Use the Dashboard
+### Data Filters (Slicers)
 
-Filters: Use slicers to filter by year or verified users.
-Drill-Down: Click on the donut chart to see data by location.
-Interactivity: Hover over graphs/maps for details.
-Animation: Watch trends in employee followers over time.
+- **Account Creation Year** – Filter data by the year employee accounts were created
+- **Verified Status** – Toggle between verified and non-verified employee records
 
-🚀 Getting Started
+---
 
-Download the Power BI file from the repository.
-Open the file in Power BI Desktop.
-Explore the visualizations and insights.
-⭐ Like this project? Don’t forget to star the repository!
+## Key Insights
+
+- **Verified Users** demonstrate higher levels of engagement and activity compared to non-verified accounts
+- **Geographic Trends** indicate concentrated engagement in specific regions, visible through map visualizations
+- **Retweet Analysis** surfaces popular locations and frequently occurring keywords
+- **Employee Demographics** reveal a measurable relationship between follower counts and geographic location
+
+---
+
+## Tools and Techniques
+
+| Tool / Technique              | Purpose                                          |
+|-------------------------------|--------------------------------------------------|
+| Power BI Desktop              | Building and publishing interactive dashboards   |
+| Data Storytelling             | Presenting insights in a structured, visual format |
+| Data Cleaning and Preparation | Ensuring accuracy and consistency in visualizations |
+
+---
+
+## How to Use the Dashboard
+
+- **Filters:** Use the slicers to filter records by account creation year or verified status
+- **Drill-Down:** Click on the donut chart to explore data broken down by location
+- **Interactivity:** Hover over charts and maps to view detailed data points
+- **Animation:** Observe animated trend lines showing changes in employee follower counts over time
+
+---
+
+## Getting Started
+
+1. Download the Power BI `.pbix` file from this repository
+2. Open the file in Power BI Desktop
+3. Use the slicers and interactive visuals to explore the data
+
+---
+
+## Repository
+
+If you find this project useful, consider starring the repository to support further development.
+
+---
+
+> Built to demonstrate the value of data-driven HR analytics through clear, interactive, and insightful Power BI visualizations.
